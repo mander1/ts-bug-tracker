@@ -1,0 +1,63 @@
+.app {
+  width: 500px;
+  margin: 0 auto;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: white;
+}
+
+table {
+  border: 1px solid;
+  width: 100%;
+  color: white;
+  backdrop-filter: blur(10px);
+}
+
+table td, table th {
+  text-align: left;
+  padding: 10px;
+}
+
+table th {
+  background-color: #bababa;
+  backdrop-filter: blur(10px);
+}
+
+.add-new-bug-form {
+  width: 479px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid white;
+  margin-top: 20px;
+  backdrop-filter: blur(10px);
+}
+
+.add-new-bug-form * {
+  margin: 5px 0;
+}
+
+.add-new-bug-form input, .add-new-bug-form select {
+  padding: 10px;
+}
+
+.add-new-bug-form button {
+  background-color:#bababa;
+  border: 1px solid;
+  height: 37px;
+  padding: 20 px;
+  color:  white;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.button { 
+  background-color:#bababa;
+  border: 50;
+  height: 30px;
+  padding: 20 px;
+  color:  black;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
