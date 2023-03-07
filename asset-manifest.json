@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mander1.github.io/ts-bug-tracker/static/css/main.384d149e.css",
+    "main.js": "/mander1.github.io/ts-bug-tracker/static/js/main.c304f50f.js",
+    "static/js/787.0e69aa64.chunk.js": "/mander1.github.io/ts-bug-tracker/static/js/787.0e69aa64.chunk.js",
+    "static/media/imageBG.jpg": "/mander1.github.io/ts-bug-tracker/static/media/imageBG.8fc3527065a829c6cc33.jpg",
+    "index.html": "/mander1.github.io/ts-bug-tracker/index.html",
+    "main.384d149e.css.map": "/mander1.github.io/ts-bug-tracker/static/css/main.384d149e.css.map",
+    "main.c304f50f.js.map": "/mander1.github.io/ts-bug-tracker/static/js/main.c304f50f.js.map",
+    "787.0e69aa64.chunk.js.map": "/mander1.github.io/ts-bug-tracker/static/js/787.0e69aa64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384d149e.css",
+    "static/js/main.c304f50f.js"
+  ]
+}
